@@ -4,4 +4,4 @@ opencv-python==4.1.1.26
 numpy==1.17.2
 tflearn==0.3.2
 tqdm==4.35.0
-tensorflow==1.14.0
+tensorflow==1.15.0
